@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QuickSettingsLock</string>
+    <string name="lock_tile_label">Lock Screen</string>
+    <string name="accessibility_service_description">An accessibility service to lock the screen from a Quick Settings tile.</string>
+</resources>
